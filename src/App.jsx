@@ -4,7 +4,8 @@ import Form from './components/Form/Form';
 
 function App() {
   return (
-    <div  className='form form-center' id='form-parent'>
+    <div  className='form form-center'>
+        <h2> Sign Up #06</h2>
         <Form/> 
     </div>
   )
